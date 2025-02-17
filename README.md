@@ -127,6 +127,16 @@ For a complete list of all available endpoints, along with their request and res
 
 ## Contributing
 
+## Unit testing
+### Setup test environment
+### Run tests
+### Expected results
+
+## Component-level testing
+### Setup test environment
+### Run tests
+### Expected results
+
 We welcome contributions to the Prometheus-X Catalog API. If you find a bug or want to suggest a new feature, please open an issue in the GitHub repository. If you want to contribute code, please fork the repository, create a new branch, make your changes, and submit a pull request.
 
 ## License
